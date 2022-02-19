@@ -1,2 +1,2 @@
 # enirya
- Adding personalized1 README summary to my github
+ Adding personalized README summary to my github
