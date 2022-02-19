@@ -6,8 +6,8 @@
 
 <div align = "center">
   <a href="https://github.com/enirya">
-  <img src="https://github-readme-stats.vercel.app/api?username=enirya&show_icons=true&bg_color=30,0ff1ce,5f73dd&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enirya&layout=default&langs_count=7&bg_color=25,d41765,0ff1ce&title_color=fff&text_color=fff&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=enirya&show_icons=true&bg_color=30,d41765,5f73dd&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enirya&layout=default&langs_count=7&bg_color=25,5f73dd,0ff1ce&title_color=fff&text_color=fff&hide_border=true">
 </div>
   
  
