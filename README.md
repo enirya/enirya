@@ -27,6 +27,7 @@ My name is Tayrine and I'm a student of Systems Analysis and Development. I'm fa
 
 >- Agile Methodologies
 >- Front-end (in general)
+>- Docker
 >- UI/UX
 
 <div align = "center">
