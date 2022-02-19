@@ -13,12 +13,12 @@
 <img src = "https://user-images.githubusercontent.com/24363588/154778512-26b77026-1ae7-4bac-afb5-462d3ac14f65.gif"  align = "left">
 
   <a href="https://github.com/enirya">
-  <img src="https://github-readme-stats.vercel.app/api?username=enirya&show_icons=true&bg_color=30,0ff1ce,5f73dd&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" align = "right" width = "45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=enirya&show_icons=true&bg_color=30,0ff1ce,5f73dd&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=true" align = "right" width = "45%">
 </div>
   
 <div>
 <img src = "https://user-images.githubusercontent.com/24363588/154778474-67b5e1fa-daaa-4ddb-85d6-e9394f056e82.gif"  align = "right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enirya&layout=default&langs_count=7&bg_color=25,d41765,0ff1ce&title_color=fff&text_color=fff" width = "45%" align = "left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enirya&layout=default&langs_count=7&bg_color=25,d41765,0ff1ce&title_color=fff&text_color=fff&hide_border=true" width = "45%" align = "left">
 </div>
   
  
