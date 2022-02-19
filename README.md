@@ -1,8 +1,3 @@
-<p align = "center">
-<img src = "https://user-images.githubusercontent.com/24363588/154778505-515b2521-93da-45cf-8fbd-3b086541a05e.gif" width = "100%">
-</p>
-
-
 <h1 align = "center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~</h1>
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/24363588/154778431-f7390fde-830a-4d63-b9f2-cada7dd33061.gif" width = "100%">
