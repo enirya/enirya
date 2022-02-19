@@ -5,12 +5,12 @@
 
 <h1 align = "center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~</h1>
 <p align = "center">
-<img src = "!https://user-images.githubusercontent.com/24363588/154778431-f7390fde-830a-4d63-b9f2-cada7dd33061.gif" width = "100%">
+<img src = "https://user-images.githubusercontent.com/24363588/154778431-f7390fde-830a-4d63-b9f2-cada7dd33061.gif" width = "100%">
 </p>
 
 
 <div>
-<img src = "https://user-images.githubusercontent.com/24363588/154778512-26b77026-1ae7-4bac-afb5-462d3ac14f65.gif" width = "25%"  align = "left">
+<img src = "https://user-images.githubusercontent.com/24363588/154778512-26b77026-1ae7-4bac-afb5-462d3ac14f65.gif" width = "30%"  align = "left">
 
   <a href="https://github.com/enirya">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=enirya&show_icons=true&bg_color=25,d41765,0ff1ce&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
