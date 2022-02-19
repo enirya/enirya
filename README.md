@@ -13,7 +13,7 @@
 <img src = "https://user-images.githubusercontent.com/24363588/154778512-26b77026-1ae7-4bac-afb5-462d3ac14f65.gif"  align = "left">
 
   <a href="https://github.com/enirya">
-  <img src="https://github-readme-stats.vercel.app/api?username=enirya&show_icons=true&bg_color=30,0ff1ce,5f73dd&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" align = "right">
+  <img src="https://github-readme-stats.vercel.app/api?username=enirya&show_icons=true&bg_color=30,0ff1ce,5f73dd&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" align = "right" width = "45%">
 </div>
   
 <div>
