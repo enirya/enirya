@@ -13,9 +13,15 @@ My name is Tayrine and I'm a student of Systems Analysis and Development. I'm fa
 
 >- Java
 >- JavaScript
+>- Typescript
+>- React
 >- Python
 >- Kotlin
 >- Swift
+
+## :bricks: Frameworks that I'm most interested in are:
+
+>- Angular
 
 ## :seedling: The areas I'm most looking forward to study and perhaps build a career are:
 
