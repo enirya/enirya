@@ -21,7 +21,7 @@ My name is Tayrine and I'm a student of Systems Analysis and Development. I'm fa
 
 >- Android Development
 >- Front-End Web Development
->- IOs Development
+>- iOs Development
 
 ## :sparkling_heart: I'm a HUUUGE fan of:
 
