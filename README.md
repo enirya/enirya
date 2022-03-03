@@ -41,8 +41,11 @@ My name is Tayrine and I'm a student of Systems Analysis and Development. I'm fa
   <img src="https://github-readme-stats.vercel.app/api?username=enirya&show_icons=true&bg_color=95,d41765,5f73dd&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide_border=true" width = "50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enirya&layout=default&langs_count=7&bg_color=95,5f73dd,0ff1ce&title_color=fff&text_color=fff&hide_border=true" width = "50%">
 </div>
+
+<h1 align = "center">My Curriculum Vitae</h1>
   
- 
+![Curriculum Vitae Tayrine](https://user-images.githubusercontent.com/24363588/156612310-89e2a989-67b0-4e1b-b62d-296de927dac3.png)
+
 <div align = "center">
 <img src='https://profile-counter.glitch.me/enirya/count.svg'>
 </div>
