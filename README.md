@@ -44,11 +44,12 @@ My name is Tayrine and I'm a student of Systems Analysis and Development. I'm fa
  
 <p>
 <h1 align = "center">My Curriculum Vitae</h1>
-<h1 align = "center"><a href="https://drive.google.com/file/d/1ES6YI_dTNxzJtYAs66p8IMUqK5StKYQ8/view?usp=sharing">:arrow_down:Download CV</a><h1>
+<h1 align = "center"><a href="https://drive.google.com/file/d/1gZFr0fsKMHIHJO8ZEKd3Lx_O0W7dtADz/view?usp=sharing">:arrow_down:Download CV</a><h1>
 <p>
 <p>
   
-![Curriculum Vitae Tayrine](https://user-images.githubusercontent.com/24363588/156612310-89e2a989-67b0-4e1b-b62d-296de927dac3.png)
+![Curriculum Vitae Tayrine](https://user-images.githubusercontent.com/24363588/197612633-85b7b924-4ee2-45cf-a9a9-9c58b534a7e7.png)
+
 
 <div align = "center">
 <img src='https://profile-counter.glitch.me/enirya/count.svg'>
