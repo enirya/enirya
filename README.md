@@ -24,7 +24,7 @@ My name is Tayrine and I'm a graduate of Systems Analysis and Development. I'm f
 ## :seedling: The areas I'm most looking forward to study and perhaps build a career are:
 
 >- DevOps
->- Backend Developer
+>- Backend Development
 >- iOs Development
 
 ## :sparkling_heart: I'm a HUUUGE fan of:
