@@ -7,8 +7,7 @@
 
 # Well, hello there! :wave::smiling_face_with_three_hearts:
 
-My name is Tayrine and I'm a student of Systems Analysis and Development. I'm fascinated by the technology area for its power to influence in other people's lives. I was working as a Freelance Web Developer last year and that brought me so much experience, I'm looking forward to a new job where I can grow and show my skills.
-
+My name is Tayrine and I'm a graduate of Systems Analysis and Development. I'm fascinated by the technology area for its power to influence in other people's lives. I worked as a freelance frontend developer at the begining of my career and evolved to a fullstack developer working for a big client in Brazil. Nowadays Im working as a Junior DevOps Developer. I look forward to keep evolving in this area that brought me so much experience and knowledge
 ## :fire: The languages I'm most interested in are: 
 
 >- Java
@@ -19,14 +18,13 @@ My name is Tayrine and I'm a student of Systems Analysis and Development. I'm fa
 >- Kotlin
 >- Swift
 
-## :bricks: Frameworks that I'm most interested in are:
-
+## :bricks: Fronted Development Frameworks that I work:
 >- Angular
 
 ## :seedling: The areas I'm most looking forward to study and perhaps build a career are:
 
->- Android Development
->- Front-End Web Development
+>- DevOps
+>- Backend Developer
 >- iOs Development
 
 ## :sparkling_heart: I'm a HUUUGE fan of:
